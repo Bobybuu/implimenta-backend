@@ -1,0 +1,76 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Log files
+*.log
+bun.lockb
+
+# Environment variables
+.env
+.env.*             # .env.development, .env.production, etc.
+
+# Runtime & cache directories
+.cache/
+.vite/
+.nyc_output/
+coverage/
+*.tsbuildinfo
+.next/
+out/
+
+# Build output
+build/
+public/build/
+tmp/
+temp/
+*.tmp
+
+# Dependency folders
+node_modules/
+.pnp/
+.pnp.js
+
+# Test output
+jest.config.js
+*.test-results.xml
+test-results/
+
+# Bun, npm, pnpm & yarn files
+bun.lockb
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
