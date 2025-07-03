@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-implimentabackend-dev-d00ef-authRole",
+      "UnauthRoleArn": "arn:aws:iam::417886594305:role/amplify-implimentabackend-dev-d00ef-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::417886594305:role/amplify-implimentabackend-dev-d00ef-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-implimentabackend-dev-d00ef-deployment",
+      "UnauthRoleName": "amplify-implimentabackend-dev-d00ef-unauthRole",
+      "StackName": "amplify-implimentabackend-dev-d00ef",
+      "StackId": "arn:aws:cloudformation:us-east-1:417886594305:stack/amplify-implimentabackend-dev-d00ef/6af3cc50-5498-11f0-b31f-0ec865084455",
+      "AmplifyAppId": "d1n792thsumfbx"
+    },
+    "categories": {
+      "function": {
+        "sendContactEmail": {
+          "resendApiKey": "re_UV7heXu6_GrUu3c51t5r54FAarr7kLJKk",
+          "deploymentBucketName": "amplify-implimentabackend-dev-d00ef-deployment",
+          "s3Key": "amplify-builds/sendContactEmail-436f764769735a5a536c-build.zip"
+        }
+      },
+      "api": {
+        "contactFormAPI": {}
+      }
+    }
+  }
+}
